@@ -1,4 +1,4 @@
-# Hello i'm Serp
+# Hello I'm Serp
 
 I ❤️ learning new things
 
