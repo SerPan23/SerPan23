@@ -18,7 +18,7 @@ I ❤️ learning new things
 
 ![Django](https://img.shields.io/badge/-Django-%2300C851?style=flat-square&logo=django)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=%23ffffff)
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c++)
 ![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=flat-square&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=flat-square&logo=flutter)
 
