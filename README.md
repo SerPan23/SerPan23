@@ -18,7 +18,7 @@ I ❤️ learning new things
 
 ![Django](https://img.shields.io/badge/-Django-%2300C851?style=flat-square&logo=django)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=%23ffffff)
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48dGl0bGU%2BQysrIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0yMi4zOTQgNmMtLjE2Ny0uMjktLjM5OC0uNTQzLS42NTItLjY5TDEyLjkyNi4yMmMtLjUwOS0uMjk0LTEuMzQtLjI5NC0xLjg0OCAwTDIuMjYgNS4zMWMtLjUwOC4yOTMtLjkyMyAxLjAxMy0uOTIzIDEuNnYxMC4xOGMwIC4yOTQuMTA0LjYyLjI3MS45MS4xNjcuMjkuMzk4LjU0My42NTIuNjlsOC44MTYgNS4wOWMuNTA4LjI5MyAxLjM0LjI5MyAxLjg0OCAwbDguODE2LTUuMDljLjI1NC0uMTQ3LjQ4NS0uNC42NTItLjY5LjE2Ny0uMjkuMjctLjYxNi4yNy0uOTFWNi45MWMuMDAzLS4yOTQtLjEtLjYyLS4yNjgtLjkxek0xMiAxOS4xMWMtMy45MiAwLTcuMTA5LTMuMTktNy4xMDktNy4xMSAwLTMuOTIgMy4xOS03LjExIDcuMTEtNy4xMWE3LjEzMyA3LjEzMyAwIDAxNi4xNTYgMy41NTNsLTMuMDc2IDEuNzhhMy41NjcgMy41NjcgMCAwMC0zLjA4LTEuNzhBMy41NiAzLjU2IDAgMDA4LjQ0NCAxMiAzLjU2IDMuNTYgMCAwMDEyIDE1LjU1NWEzLjU3IDMuNTcgMCAwMDMuMDgtMS43NzhsMy4wNzggMS43OEE3LjEzNSA3LjEzNSAwIDAxMTIgMTkuMTF6bTcuMTEtNi43MTVoLS43OXYuNzloLS43OXYtLjc5aC0uNzl2LS43OWguNzl2LS43OWguNzl2Ljc5aC43OXptMi45NjIgMGgtLjc5di43OWgtLjc5di0uNzloLS43OXYtLjc5aC43OXYtLjc5aC43OXYuNzloLjc5eiIvPjwvc3ZnPg%3D%3D)
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=https://simpleicons.org/icons/cplusplus.svg)
 ![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=flat-square&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=flat-square&logo=flutter)
 
