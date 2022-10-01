@@ -15,14 +15,20 @@ I ❤️ learning new things
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-%2300c853?style=flat-square&logo=pycharm&logoColor=%23fafafa)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Django](https://img.shields.io/badge/-Django-%2300C851?style=flat-square&logo=django)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=%23ffffff)
 ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B)
 ![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=flat-square&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=flat-square&logo=flutter)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
-
-![SerPan23's github stats](https://github-readme-stats.vercel.app/api?username=SerPan23&show_icons=true&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SerPan23&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SerPan23&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SerPan23&theme=solarized_dark)
