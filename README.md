@@ -29,6 +29,6 @@ I ❤️ learning new things
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SerPan23&theme=darcula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SerPan23&theme=darcula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SerPan23&theme=darcula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SerPan23&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SerPan23&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SerPan23&theme=dracula)
