@@ -2,7 +2,7 @@
 
 I ❤️ learning new things
 
-:computer: Now i'm learning django and Flutter with dart
+:computer: Now i'm learning golang and Flutter with dart
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
